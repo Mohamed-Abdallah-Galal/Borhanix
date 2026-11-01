@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.Local.json
+appsettings.Development.jsonnode_modules/ 
+bin/ 
+obj/ 
+.vs/ 
